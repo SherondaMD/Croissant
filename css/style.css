@@ -1,7 +1,13 @@
 body {
-  background: pink;
+  background: whitesmoke;
 }
 h1 {
   text-align: center;
-  color: white;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  padding: 20px;
+  border-radius: 10px;
 }
